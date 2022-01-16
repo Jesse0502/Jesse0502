@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesse0502
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning graphql
+- 🌱 I’m currently learning rust
 - 📫 How to reach me - jas0502singh@gmail.com
 
 <!---
