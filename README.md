@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesse
-- 👀 I’m interested in coding and other stuff
+- 👀 I’m interested in coding and stuff
 - 🌱 I’m currently learning python
 - 📫 Msg me on Discord - JS_Artboy#0888
 
