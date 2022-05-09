@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse
 - 👀 I’m interested in coding and stuff
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Go
 - 📫 Msg me on Discord - JS_Artboy#0888
 
 <!---
