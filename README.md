@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Jesse
-- 👀 I’m interested in coding and stuff
-- 🌱 I’m currently learning Go
-- 📫 Msg me on Discord - JS_Artboy#0888
+# Hi there, I'm Jesse 👋
 
-<!---
-Jesse0502/Jesse0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about coding, technology, and building solutions that make a difference. Here's a little about me:
+
+## 🚀 About Me
+
+- 💻 Software Developer with experience in a variety of languages and frameworks.
+- 🌱 Always learning something new – currently interested in AI, open-source, and cloud technologies.
+- 🔭 Working on personal projects and contributing to open-source.
+- 🤝 Looking to collaborate on challenging and impactful projects.
+
+## 📫 How to Reach Me
+
+Feel free to create an issue, reach out through socials, or drop me an email at **jasmeetsingh0502@gmail.com**!
