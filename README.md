@@ -1,11 +1,11 @@
-# Hi there, I'm Jesse 👋
+# Hi there, I'm Jasmeet 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and building solutions that make a difference. Here's a little about me:
+Welcome to my GitHub profile! I try to make cool Saas apps :)
 
 ## 🚀 About Me
 
-- 💻 Software Developer with experience in a variety of languages and frameworks.
-- 🌱 Always learning something new – currently interested in AI, open-source, and cloud technologies.
+- 💻 Currently working on AI Sales Assistant for Real estate agents
+- 🌱 Previously worked on a marketplace for freelancers and SMEs. Killed due to lack of validation.
 - 🔭 Working on personal projects and contributing to open-source.
 - 🤝 Looking to collaborate on challenging and impactful projects.
 
