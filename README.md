@@ -1,6 +1,6 @@
 # Hi there, I'm Jasmeet 👋
 
-Welcome to my GitHub profile! I try to make cool Saas apps :)
+I make cool Saas apps :)
 
 ## 🚀 About Me
 
